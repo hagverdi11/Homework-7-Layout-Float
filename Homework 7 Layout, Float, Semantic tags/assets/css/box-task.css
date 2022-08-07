@@ -1,0 +1,162 @@
+body{
+    background-color: aqua;
+}
+
+.boxes{
+    display: flex;
+}
+
+.Home{
+    width: 200px;
+    height: 80px;
+    background-color: yellow;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+
+.Home a{
+    color: blue;
+   
+}
+
+.About-Me{
+    width: 200px;
+    height: 80px;
+    margin-left: 20px;
+    background-color: yellow;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+
+.About-Me a{
+    color: blue;
+   
+}
+
+.Product{
+    width: 200px;
+    height: 80px;
+    margin-left: 20px;
+    background-color: yellow;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.Product a{
+    color: blue;
+}
+
+.Services{
+    width: 200px;
+    height: 80px;
+    margin-left: 20px;
+    background-color: yellow;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+
+.Services a{
+    color: blue;
+}
+
+.Maps{
+    width: 200px;
+    height: 80px;
+    margin-left: 20px;
+    background-color: yellow;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+
+.Maps a{
+    color: blue;
+}
+
+.Contact-Me{
+    width: 200px;
+    height: 80px;
+    margin-left: 20px;
+    background-color: yellow;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+
+.Contact-Me a{
+    color: blue;
+}
+
+.boxes2{
+    display: flex;
+}
+
+.gray{
+    width: 450px;
+    height: 800px;
+    margin-top: 25px;
+    background-color: gray;
+    text-align: center;
+    font-size: 40px;
+}
+
+.gray span{
+    color:aqua
+}
+
+
+.yellow{
+    width: 450px;
+    height: 800px;
+    margin-top: 25px;
+    background-color: yellow;
+    text-align: center;
+    font-size: 40px;
+}
+
+.yellow span{
+    color: black;
+}
+
+.blue{
+    width: 450px;
+    height: 800px;
+    margin-top: 25px;
+    background-color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+
+.blue span{
+    color: yellow;
+}
+
+.last span{
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+}
+
+.last{
+    margin-left: 42%;
+}
+
+
+

@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+
+.info{
+    display: flex;
+    width: 100%;
+    height: 48px;
+    background-color: rgb(54, 50, 50);
+}
+
+.info a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-size: 22px;
+}
+
+.info .journal{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28px;
+}
+
+.box{
+    display: flex;
+    margin-left: 300px;
+    margin-top: -5%;
+}
+
+.photo img{
+    width: 250px;
+    height: 390px;
+}
+
+.photo{
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.login{
+    background-color: white;
+    margin-top: 150px;
+    text-align: center;
+    text-decoration: none;
+    width: 250px;
+}
+
+.login h1{
+    color: gray;
+    
+}
+
+.login label{
+    color:gray
+}
+
+.login p a{
+    text-decoration: none;
+}
+
+.registerbtn {
+    background-color: #d38c21;
+    color: white;
+    padding: 12px 14px;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+    width: 60%;
+    opacity: 0.9;
+  }
+
+
